@@ -1,0 +1,32 @@
+#kfc{
+background-color:  rgb(226, 12, 12);
+text-align: center;
+color: #ddd7d7;
+border-radius: 0%;
+}
+
+.row{
+    margin-left: 12%;
+   
+}
+   
+
+.qw{
+padding: 2%;
+background-color: rgb(226, 12, 12);
+text-align: center;
+color: #f8efef;
+}
+
+.ul{
+    list-style: none;
+}
+ul li{
+    list-style-type: none;
+}
+.container-fluid{
+    background-color: rgb(49, 46, 46);
+    color: #ddcece;
+    
+    
+}
